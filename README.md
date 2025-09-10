@@ -34,12 +34,8 @@ This web admin portal is the central control panel for the GreenSnap AI ecosyste
 * Dashboard with map & summary cards (total reports, pending, resolved).
 * Real-time / polling feed of new reports with image preview, GPS, timestamp, and inferred label/confidence.
 * Report lifecycle management: assign → in-progress → resolved.
-* Worker & Supervisor CRUD (create, edit role, suspend/reactivate).
-* User management: block/unblock, view contributions, export activity logs.
-* Role-based access control (Admin / Supervisor / Worker / Viewer).
-* CSV / JSON export for reports & users.
-* Audit logs and basic activity timeline.
-* Download links to citizen mobile app (APK / App Store / Play Store links) and QR codes for easy installation.
+* Worker & Supervisor CRUD (create,delete).
+* Role-based access control (Admin / Supervisor /User).
 
 ---
 
