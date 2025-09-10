@@ -1,6 +1,3 @@
-Nice — below is a complete, ready-to-commit `README.md` for your **web admin portal** (`GS_Web_App`). It’s written to let users download the mobile app, and for administrators to monitor reports, workers, supervisors, and users. I included the repo URL and live deployment reference (from your GitHub repository page). Drop this file into the root of `https://github.com/Muhammad5Ali/GS_Web_App` and edit any links/values specific to your environment.
-
-> Source: repository info and live site reference from your GitHub repo. ([GitHub][1])
 
 ```markdown
 # GreenSnap AI — Web Admin Portal
