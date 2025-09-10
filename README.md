@@ -17,8 +17,6 @@
   * [Monitoring Reports](#monitoring-reports)
   * [Manage Workers & Supervisors](#manage-workers--supervisors)
   * [Manage Users](#manage-users)
-  * [Download Mobile App / APKs](#download-mobile-app--apks)
-* [API & Endpoints (summary)](#api--endpoints-summary)
 * [Troubleshooting](#troubleshooting)
 * [Contributing](#contributing)
 * [License](#license)
@@ -130,31 +128,6 @@ This project is set up for Vercel. To deploy:
 * View user profiles and submission history.
 * Block/unblock abusive accounts.
 * Export user activity for audit (CSV/JSON).
-
-### Download Mobile App / APKs
-
-* Provide links to the official citizen mobile app (Play Store / App Store) once published.
-* For testing, add signed APK(s) to the mobile repo Releases or a secure object storage (S3) and link from this portal.
-* Display QR codes that point to Play Store / direct APK links for convenience.
-
----
-
-## API & Endpoints (summary)
-
-> The portal communicates with the GreenSnap backend API. Update paths to match your backend.
-
-* `GET /api/reports` — list & filter reports
-* `GET /api/reports/:id` — single report details
-* `POST /api/reports/:id/assign` — assign report to worker
-* `POST /api/reports/:id/status` — update report status
-* `GET /api/users` — list users
-* `PUT /api/users/:id` — update user (block/unblock)
-* `GET /api/workers` — list workers
-* `POST /api/auth/login` — admin login (returns JWT)
-
-**Auth:** attach `Authorization: Bearer <token>` to protected requests.
-
----
 
 ## Troubleshooting
 
