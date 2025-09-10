@@ -1,5 +1,3 @@
-
-```markdown
 # GreenSnap AI — Web Admin Portal
 
 > Web-based administration portal for **GreenSnap AI** — monitor incoming waste reports, manage field workers & supervisors, and provide downloads and links for the citizen mobile apps.  
@@ -82,7 +80,7 @@ This web admin portal is the central control panel for the GreenSnap AI ecosyste
 
 Create a `.env` file in the project root (do **not** commit this file):
 
-```
+
 
 REACT\_APP\_API\_BASE=[https://api.greensnap.example.com](https://api.greensnap.example.com)
 REACT\_APP\_MAPBOX\_KEY=your\_mapbox\_key\_here
