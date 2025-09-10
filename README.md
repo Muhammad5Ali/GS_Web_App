@@ -104,7 +104,7 @@ This project is set up for Vercel. To deploy:
 
 * Dashboard shows quick counts and a timeline of newest reports.
 * Use filters: status (pending/in-progress/resolved), date range, label/confidence threshold, city/area, assigned worker.
-* Click a report to view details: full image, location (open in map), uploaded EXIF/time, backend inference results (label + confidence from MobileNetV3 Large), and action buttons (Assign → Mark In-Progress → Resolve).
+* Click a report to view details: full image, location (open in map), uploaded EXIF/time, backend inference results, can permanent-resolve or reject the report based on the 10m strict location comparison between the reported location & resolved location.
 
 **Map behaviour:**
 
@@ -114,10 +114,10 @@ This project is set up for Vercel. To deploy:
 
 ### Manage Workers & Supervisors
 
-* Create new worker accounts (email, phone, assigned zone).
-* Assign supervisors to regions or specific workers.
-* Reassign tasks or re-route pending reports.
-* Track worker status and recent activity logs.
+* Create new worker accounts (username, phone, assigned zone).
+* Assign supervisors to specific workers.
+* Assign tasks or re-route pending reports.
+* Track worker attendance status.
 
 ### Manage Users
 
