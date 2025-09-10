@@ -41,7 +41,7 @@ This web admin portal is the central control panel for the GreenSnap AI ecosyste
 
 ## Tech Stack
 
-* React (CRA or Vite) + React Router
+* React (Vite) + React Router
 * Ant Design / Material UI (or custom UI library)
 * **Leaflet.js + OpenStreetMap (OSM) / other open-source map tiles** for visualising geo-tagged reports
 
