@@ -1,7 +1,7 @@
 # GreenSnap AI — Web Admin Portal
 
 > Web-based administration portal for **GreenSnap AI** — monitor incoming waste reports, manage field workers & supervisors, and provide downloads and links for the citizen mobile apps.  
-> Live demo (deployed on Vercel) and source repository available. :contentReference[oaicite:1]{index=1}
+> Live demo:web-admin-greensnap-zag8.vercel.app/
 
 ---
 
