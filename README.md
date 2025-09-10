@@ -25,7 +25,7 @@
 
 ## About
 
-This web admin portal is the central control panel for the GreenSnap AI ecosystem. Administrators can view and filter incoming geo-tagged waste reports, assign tasks to workers, track supervisor activity and status, and export data. The backend uses a mobile-optimized inference model (**MobileNetV3 Large**) to validate images server-side; this portal consumes backend APIs for all operations.
+This web admin portal is the central control panel for the GreenSnap AI ecosystem. Administrators can view and filter incoming geo-tagged waste reports, assign tasks to workers, track supervisor activity and status, and export data. The backend uses a mobile-optimized inference model (**MobileNetV3 Large & YOLO v11 separately**) to validate images server-side; this portal consumes backend APIs for all operations.
 
 ---
 
