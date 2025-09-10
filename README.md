@@ -126,8 +126,6 @@ This project is set up for Vercel. To deploy:
 ### Manage Users
 
 * View user profiles and submission history.
-* Block/unblock abusive accounts.
-* Export user activity for audit (CSV/JSON).
 
 ## Troubleshooting
 
@@ -144,13 +142,6 @@ This project is set up for Vercel. To deploy:
 * Keep UI components small and covered by unit tests where practical.
 * Add migrations and seed scripts if the backend expects new fields.
 * **Never commit** production secret keys or `.env` files.
-
----
-
-## Releases & Downloads
-
-* Publish app releases (web & mobile) to the GitHub Releases section and include signed APKs and instructions for installation/testing.
-* Add checksums (sha256) to each release asset for integrity verification.
 
 ---
 
