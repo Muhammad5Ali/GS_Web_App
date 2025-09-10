@@ -7,7 +7,6 @@
 ## Table of Contents
 
 * [About](#about)
-* [Quick Links](#quick-links)
 * [Key Features](#key-features)
 * [Tech Stack](#tech-stack)
 * [Prerequisites](#prerequisites)
@@ -29,14 +28,6 @@
 ## About
 
 This web admin portal is the central control panel for the GreenSnap AI ecosystem. Administrators can view and filter incoming geo-tagged waste reports, assign tasks to workers, track supervisor activity and status, and export data. The backend uses a mobile-optimized inference model (**MobileNetV3 Large**) to validate images server-side; this portal consumes backend APIs for all operations.
-
----
-
-## Quick Links
-
-* Repository: `https://github.com/Muhammad5Ali/GS_Web_App`
-* Live deployment (example): your Vercel domain (set in repository deployment settings)
-* Mobile frontend repo (citizen app): `https://github.com/MohammadAli-14/GreenSnap-Yolo-frontend` *(replace if different)*
 
 ---
 
