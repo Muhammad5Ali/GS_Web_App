@@ -3,6 +3,18 @@
 > Web-based administration portal for **GreenSnap AI** — monitor incoming waste reports, manage field workers & supervisors, and provide downloads and links for the citizen & supervisor mobile apps.
 
 ---
+---
+
+## 📱 Mobile Application Repositories
+
+This repository contains the code for the **Web Application**. If you are looking for the mobile app source code, you can find the related repositories below:
+
+| Component | Repository Link |
+| :--- | :--- |
+| **Mobile Frontend (UI)** | [Mobile App Frontend](https://github.com/Muhammad5Ali/GS_Supervisor_Frontend) |
+| **Mobile Backend (API)** | [Mobile App Backend](https://github.com/Muhammad5Ali/GS_Admin) |
+
+---
 
 ## Table of Contents
 
