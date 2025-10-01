@@ -10,10 +10,10 @@ This repository contains the code for the **Web Application**. If you are lookin
 
 | Component | Repository Link |
 | :--- | :--- |
-| **MobileNet V3 Large — Frontend (UI)** | [Mobile App Frontend](https://github.com/Muhammad5Ali/GS_Supervisor_Frontend) |
-| **MobileNet V3 Large — Backend (API)** | [Mobile App Backend](https://github.com/Muhammad5Ali/GS_Admin) |
-| **YOLOv11 — Frontend (UI)** | [YOLO Frontend](https://github.com/MohammadAli-14/GreenSnap-Yolo-frontend) |
-| **YOLOv11 — Backend (API / Detector)** | [YOLO Backend](https://github.com/MohammadAli-14/yolofinalbackend) |
+| **MobileNet V3 Large — Frontend (UI)** | [MobileNet V3 App Frontend](https://github.com/Muhammad5Ali/GS_Supervisor_Frontend) |
+| **MobileNet V3 Large — Backend (API)** | [MobileNet V3 App Backend](https://github.com/Muhammad5Ali/GS_Admin) |
+| **YOLOv11 — Frontend (UI)** | [YOLO V11 Frontend](https://github.com/MohammadAli-14/GreenSnap-Yolo-frontend) |
+| **YOLOv11 — Backend (API / Detector)** | [YOLO V11 Backend](https://github.com/MohammadAli-14/yolofinalbackend) |
 
 
 ---
